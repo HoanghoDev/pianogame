@@ -4,7 +4,7 @@
 
 
 
-![IMAGE](project.png)
+![IMAGE](/project.png)
 
 
 
