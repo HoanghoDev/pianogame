@@ -4,7 +4,7 @@
 
 
 
-![IMAGE](autio/project.png)
+![IMAGE](audio/project.png)
 
 
 
