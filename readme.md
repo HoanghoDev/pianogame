@@ -4,7 +4,7 @@
 
 
 
-![IMAGE](/project.png)
+![IMAGE](autio/project.png)
 
 
 
